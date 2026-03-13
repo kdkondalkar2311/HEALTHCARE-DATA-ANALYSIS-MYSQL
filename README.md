@@ -2,6 +2,7 @@
 
 ### Phase 1 : database
 
+//sql
 CREATE TABLE Healthcare (
     Name VARCHAR(100),
     Age INT,
@@ -19,7 +20,8 @@ CREATE TABLE Healthcare (
     Medication VARCHAR(50),
     TestResults VARCHAR(20)
 );
-________________________________________
+sql//
+______________________________________
 ### Phase 2: 20 Professional Interview Questions & Solutions
 1. The Name Fixer (Cleaning)
 Q: The names in the system are messy (mixed case). Standardize all names to Uppercase and remove extra spaces.
